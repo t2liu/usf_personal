@@ -11,7 +11,3 @@ NOTE: Not done yet! Will be updating a bit of this everyday :)
 ### 2. 
 
 ### 3.
-
-### 4.
-
-### 5.
