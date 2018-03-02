@@ -9,6 +9,6 @@ NOTE: Not all of my notes and codes are up yet, but my goal is to work on gettin
 - **[Eliminate.py](ADD LINK)**
 - **[leastSquares.py](https://github.com/t2liu/usf_personal/blob/master/linearalgebra/leastSquares.py)**: function that finds the best fit line in the sense of least squares to a set of data consisting of paired observations in the form (x, y)
 
-### 2. 
+### 2. [Data Translation Pipeline]() -  
 
 ### 3.
