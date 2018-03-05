@@ -12,7 +12,3 @@ NOTE: Not all of my notes and codes are up yet, but my goal is to work on gettin
 ### 2. [Data Translation Pipeline]() -  
 
 ### 3.
-
-### 4.
-
-### 5.
