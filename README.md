@@ -11,4 +11,5 @@ NOTE: Not all of my notes and codes are up yet, but my goal is to work on gettin
 
 ### 2. [Data Translation Pipeline]() -  
 
-### 3.
+### 3. [Distributed Data Systems](https://github.com/t2liu/usf_personal/tree/master/distributeddatasystems) - 
+- **[Lecture Notes Day 1] (https://github.com/t2liu/usf_personal/blob/master/distributeddatasystems/Lecture%20Notes%20Day%201-%20Distributed%20Data%20Systems.ipynb)**: notes from Day 1 of Distributed Data Systems course
