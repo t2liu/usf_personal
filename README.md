@@ -2,7 +2,7 @@
 
 ### Personal Codes & Lecture Notes
 
-NOTE: Not all of my notes and codes are up yet, but my goal is to work on getting all my stuff up and running by at least spending 5-10minutes every day updating my GitHub (:
+NOTE: Please note that not all of my notes and codes are up yet, but my goal is to work on getting all my stuff up and running by spending at least 5-10minutes every day updating my GitHub (: Thanks!
 
 ### 1. [Linear Algebra](https://github.com/t2liu/usf_personal/tree/master/linearalgebra) -
 - **[Solving Linear Matrix Equations](https://github.com/t2liu/usf_personal/blob/master/linearalgebra/linalg.solve.py)**: how to use the `linalg.solve` function from NumPy
