@@ -1,4 +1,4 @@
-# USF Coursework
+# USF MS in Data Science & Analytics Coursework
 
 ### Personal Codes & Lecture Notes
 
