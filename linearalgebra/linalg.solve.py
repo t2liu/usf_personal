@@ -1,3 +1,5 @@
+import numpy as np
+
 """
 Define a 10x10 matrix A whose entries are the numbers from 1 to 100 ordered consecutively going across rows
 (so a_1,1 = 1, a_2,1 = 11, a_10,1 = 91, etc)
@@ -5,8 +7,6 @@ Let v = (1, 2, ...10), and b = (1, 1, ...1).
 Compute Av and solve Ax = b and Ax = v using linalg.solve.
 Verify your solution by computing Ax.
 """
-
-import numpy as np
 
 # 10 by 10 matrix A from 1 to 100 (Note: This is a Singular Matrix!)
 A = np.arange(1,101).reshape(10,10)
